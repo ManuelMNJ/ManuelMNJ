@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hola, soy Manuel
 
-<!--
-**ManuelMNJ/ManuelMNJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Desarrollo de Aplicaciones Web**.  
+Me interesa desarrollar aplicaciones útiles y seguir ampliando mis conocimientos en tecnologías web, programación en Java y bases de datos. Actualmente estoy enfocado en mejorar mis habilidades de frontend (HTML, CSS, JavaScript) y en consolidar mis bases de backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Áreas de trabajo habituales
+- Maquetación y diseño web responsive.  
+- Aplicaciones en JavaScript (vanilla y frameworks).  
+- Desarrollo en Java con conexión a bases de datos (JDBC, SQLite).  
+- Proyectos y prácticas académicas dentro del grado de DAW.  
+
+---
+
+### Tecnologías y herramientas
+**Lenguajes:** HTML · CSS · JavaScript · Java  
+**Frameworks / Librerías:** React (básico) · Node.js (para utilidades)  
+**Bases de datos:** SQLite · MySQL (básico)  
+**Herramientas:** Git · GitHub · VS Code · Eclipse · IntelliJ IDEA · WebStorm · Postman  
+
+---
+
+### Proyectos destacados
+*(Próximamente incluiré aquí los proyectos más representativos que vaya desarrollando.)*  
+
+---
+
+### Formación
+- Grado Superior en **Desarrollo de Aplicaciones Web** — [Nombre del centro].  
+- Cursos adicionales: Git, Java básico, React básico.  
+
+---
+
+### Contacto
+- **Email:** manuelangelnietojimenez@gmail.com  
+- **LinkedIn:** [enlace a tu perfil]  
+
+---
+
+_Última actualización: 18/09/2025_  
