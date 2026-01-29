@@ -37,4 +37,4 @@ Aplicación Web Full Stack desarrollada como Trabajo de Fin de Grado (TFG). Este
 ### Información de Contacto
 
 - **Email:** manuelangelnietojimenez@gmail.com
-- **LinkedIn:** [Pegar aquí tu enlace de LinkedIn]
+- **LinkedIn:** https://www.linkedin.com/in/manuel-%C3%A1ngel-nieto-jim%C3%A9nez-b4b398350/overlay/contact-info/)
